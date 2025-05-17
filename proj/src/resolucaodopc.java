@@ -1,7 +1,7 @@
 import java.awt.*; // " * " Para incluir todas as classes
 
 public class resolucaodopc {
-    public static void main(String[] args) {
+    public static void main() {
         
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         Dimension screenSize = toolkit.getScreenSize();
